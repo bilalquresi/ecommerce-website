@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/ecommerce-website/static/css/main.967f1e06.chunk.css",
-    "main.js": "/ecommerce-website/static/js/main.93a4c362.chunk.js",
-    "main.js.map": "/ecommerce-website/static/js/main.93a4c362.chunk.js.map",
+    "main.js": "/ecommerce-website/static/js/main.689a3837.chunk.js",
+    "main.js.map": "/ecommerce-website/static/js/main.689a3837.chunk.js.map",
     "runtime-main.js": "/ecommerce-website/static/js/runtime-main.768eff1f.js",
     "runtime-main.js.map": "/ecommerce-website/static/js/runtime-main.768eff1f.js.map",
     "static/css/2.d6d9fe69.chunk.css": "/ecommerce-website/static/css/2.d6d9fe69.chunk.css",
@@ -21,6 +21,6 @@
     "static/css/2.d6d9fe69.chunk.css",
     "static/js/2.c54c4af0.chunk.js",
     "static/css/main.967f1e06.chunk.css",
-    "static/js/main.93a4c362.chunk.js"
+    "static/js/main.689a3837.chunk.js"
   ]
 }
