@@ -1,26 +1,26 @@
 {
   "files": {
     "main.css": "/ecommerce-website/static/css/main.967f1e06.chunk.css",
-    "main.js": "/ecommerce-website/static/js/main.98f5b759.chunk.js",
-    "main.js.map": "/ecommerce-website/static/js/main.98f5b759.chunk.js.map",
-    "runtime-main.js": "/ecommerce-website/static/js/runtime-main.46cf1712.js",
-    "runtime-main.js.map": "/ecommerce-website/static/js/runtime-main.46cf1712.js.map",
+    "main.js": "/ecommerce-website/static/js/main.2893f049.chunk.js",
+    "main.js.map": "/ecommerce-website/static/js/main.2893f049.chunk.js.map",
+    "runtime-main.js": "/ecommerce-website/static/js/runtime-main.4e93ced3.js",
+    "runtime-main.js.map": "/ecommerce-website/static/js/runtime-main.4e93ced3.js.map",
     "static/css/2.d6d9fe69.chunk.css": "/ecommerce-website/static/css/2.d6d9fe69.chunk.css",
-    "static/js/2.27daaa73.chunk.js": "/ecommerce-website/static/js/2.27daaa73.chunk.js",
-    "static/js/2.27daaa73.chunk.js.map": "/ecommerce-website/static/js/2.27daaa73.chunk.js.map",
-    "static/js/3.506b1aec.chunk.js": "/ecommerce-website/static/js/3.506b1aec.chunk.js",
-    "static/js/3.506b1aec.chunk.js.map": "/ecommerce-website/static/js/3.506b1aec.chunk.js.map",
+    "static/js/2.52098dc0.chunk.js": "/ecommerce-website/static/js/2.52098dc0.chunk.js",
+    "static/js/2.52098dc0.chunk.js.map": "/ecommerce-website/static/js/2.52098dc0.chunk.js.map",
+    "static/js/3.e996ca81.chunk.js": "/ecommerce-website/static/js/3.e996ca81.chunk.js",
+    "static/js/3.e996ca81.chunk.js.map": "/ecommerce-website/static/js/3.e996ca81.chunk.js.map",
     "index.html": "/ecommerce-website/index.html",
     "static/css/2.d6d9fe69.chunk.css.map": "/ecommerce-website/static/css/2.d6d9fe69.chunk.css.map",
     "static/css/main.967f1e06.chunk.css.map": "/ecommerce-website/static/css/main.967f1e06.chunk.css.map",
-    "static/js/2.27daaa73.chunk.js.LICENSE.txt": "/ecommerce-website/static/js/2.27daaa73.chunk.js.LICENSE.txt",
+    "static/js/2.52098dc0.chunk.js.LICENSE.txt": "/ecommerce-website/static/js/2.52098dc0.chunk.js.LICENSE.txt",
     "static/media/font-awesome.min.css": "/ecommerce-website/static/media/fontawesome-webfont.f691f37e.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.46cf1712.js",
+    "static/js/runtime-main.4e93ced3.js",
     "static/css/2.d6d9fe69.chunk.css",
-    "static/js/2.27daaa73.chunk.js",
+    "static/js/2.52098dc0.chunk.js",
     "static/css/main.967f1e06.chunk.css",
-    "static/js/main.98f5b759.chunk.js"
+    "static/js/main.2893f049.chunk.js"
   ]
 }
